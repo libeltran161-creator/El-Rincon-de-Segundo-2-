@@ -14,15 +14,9 @@ Actividades didácticas de Lenguaje para niños de grado segundo de primaria.
   <img src="./Logo.png" alt="Wordwall" width="700">
 </p>
 
-**Acceso rápido**
+**Acceso** 
 - 🧩 [Sílabas trabadas](https://wordwall.net/es/resource/12341206)
-- 🧩 [El cuento](https://wordwall.net/es/resource/14483473)
-- 🧩 [La fábula](https://wordwall.net/es/resource/33629610)
-
-<details>
-<summary><b>🧩 Sílabas trabadas</b> — <a href="https://wordwall.net/es/resource/12341206" target="_blank">Abrir actividad</a></summary>
-
-- **Título:** Sílabas trabadas  
+- - **Título:** Sílabas trabadas  
 - **Autor:** El Rincón de Segundo 2° (libeltran161-creator)  
 - **Descripción:** Actividad gamificada para fortalecer la lectura y escritura de sílabas trabadas (bl, br, cl, cr, dr, fl, fr, gl, gr, pl, pr, tl, tr). Favorece la decodificación y la ortografía natural con práctica y retroalimentación inmediata.  
 - **Área temática:** Lenguaje – Lectoescritura / Conciencia fonológica  
@@ -32,14 +26,9 @@ Actividades didácticas de Lenguaje para niños de grado segundo de primaria.
 - **Formato:** Wordwall  
 - **Enlace:** https://wordwall.net/es/resource/12341206  
 - **Fecha de creación:** 2026  
-- **Licencia:** Uso educativo – CC BY-NC  
-
-</details>
-
-<details>
-<summary><b>🧩 El cuento</b> — <a href="https://wordwall.net/es/resource/14483473" target="_blank">Abrir actividad</a></summary>
-
-- **Título:** El cuento  
+- **Licencia:** Uso educativo – CC BY-NC 
+- 🧩 [El cuento](https://wordwall.net/es/resource/14483473)
+- - **Título:** El cuento  
 - **Autor:** El Rincón de Segundo 2° (libeltran161-creator)  
 - **Descripción:** Actividad gamificada para reconocer elementos del cuento (personajes, lugar, inicio, nudo y desenlace) y fortalecer la comprensión lectora mediante selección y clasificación de información.  
 - **Área temática:** Lenguaje – Literatura infantil / Comprensión lectora  
@@ -49,14 +38,9 @@ Actividades didácticas de Lenguaje para niños de grado segundo de primaria.
 - **Formato:** Wordwall  
 - **Enlace:** https://wordwall.net/es/resource/14483473  
 - **Fecha de creación:** 2026  
-- **Licencia:** Uso educativo – CC BY-NC  
-
-</details>
-
-<details>
-<summary><b>🧩 La fábula</b> — <a href="https://wordwall.net/es/resource/33629610" target="_blank">Abrir actividad</a></summary>
-
-- **Título:** La fábula  
+- **Licencia:** Uso educativo – CC BY-NC 
+- 🧩 [La fábula](https://wordwall.net/es/resource/33629610)
+- - **Título:** La fábula  
 - **Autor:** El Rincón de Segundo 2° (libeltran161-creator)  
 - **Descripción:** Actividad gamificada para identificar características de la fábula (texto breve, personajes, y moraleja). Promueve la interpretación de mensajes y la reflexión sobre valores a partir de la enseñanza final.  
 - **Área temática:** Lenguaje – Géneros literarios / Comprensión lectora  
@@ -66,7 +50,7 @@ Actividades didácticas de Lenguaje para niños de grado segundo de primaria.
 - **Formato:** Wordwall  
 - **Enlace:** https://wordwall.net/es/resource/33629610  
 - **Fecha de creación:** 2026  
-- **Licencia:** Uso educativo – CC BY-NC  
+- **Licencia:** Uso educativo – CC BY-NC
 
 </details>
 
